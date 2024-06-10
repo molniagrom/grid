@@ -1,3 +1,5 @@
-node_modules
-.vscode
+# Игнорирование папки с модулями Node.js
+node_modules/
 
+# Игнорирование папки с настройками Visual Studio Code
+.vscode/
